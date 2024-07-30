@@ -1,4 +1,4 @@
-# Cloud Computing Project: Container Orchestration
+# Cloud Computing Project
 
 ## Project Overview
 
